@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tgaeta
 - 👀 I’m interested in software engineering, photography, and astronomical phenomena.
-- 🌱 I’m currently learning Rust and experimenting with web technologies like Solid.js, SvelteKit, Qwik, Astro, Bun, DALL-E 2, Github Copilot, and OpenAI's GPT-3.
+- 🌱 I’m currently learning Rust and experimenting with web technologies like Next.js, Solid.js, SvelteKit, Qwik, Astro, Tauri, Bun, DALL-E 2, Github Copilot, and OpenAI's GPT-4.
 - 💞️ I’m looking to collaborate on projects related to front-end engineering and UX design
 - 🐦 Twitter @_tonygaeta
