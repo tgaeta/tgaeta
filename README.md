@@ -1,5 +1,1 @@
-- 👋 Hi, I’m Tony
-- 👀 I’m interested in software engineering, photography, and astronomical phenomena.
-- 🌱 I’m currently learning Rust and experimenting with web technologies like Next.js, Solid.js, SvelteKit, Qwik, Astro, Tauri, Bun, DALL-E 2, Github Copilot, and OpenAI's GPT-4.
-- 💞️ I’m looking to collaborate on projects related to front-end engineering and UX design
-- 🐦 Twitter @_tonygaeta
+Hello, my name is Tony. I have a passion for software engineering, photography, and the wonders of the cosmos. At present, I'm diving deep into Rust and exploring cutting-edge web technologies such as Next.js, Solid.js, SvelteKit, Qwik, Astro, Tauri, Bun, DALL-E 2, Github Copilot, and OpenAI's GPT-4.
