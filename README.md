@@ -1,1 +1,1 @@
-I'm Tony. I have a passion for software engineering, photography, and the wonders of the cosmos. At present, I'm diving deep into Rust and exploring cutting-edge web technologies like Next.js, Solid.js, SvelteKit, Qwik, Astro, Tauri, Bun, DALL-E 3, Github Copilot, and OpenAI's GPT-4.
+I'm Tony. I build software and shoot photos. Right now, I'm focused on modern frontend frameworks and edge-first platforms. I care about performance, simplicity, and writing code that lasts.
