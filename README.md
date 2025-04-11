@@ -1,1 +1,1 @@
-I'm Tony. I build software and shoot photos. Right now, I'm focused on modern frontend frameworks and edge-first platforms. I care about performance, simplicity, and writing code that lasts.
+I'm Tony. I build software and write clean code... most of the time. Lately, I’ve been working with modern frontend frameworks and edge-first platforms. I care about performance, simplicity, and code that holds up over time.
